@@ -1,0 +1,3 @@
+- Urinary function impairment (p-value: 0.04243)
+- Lower limb paresis weakness (p-value: 0.01524)
+- Motor function (p-value: 0.01360)
