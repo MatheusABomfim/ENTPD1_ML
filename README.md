@@ -28,7 +28,7 @@ The dataset used is named: cat2_df_clinic_ENTPD1.csv.
 Data Dictionary:
 
 Categorical Variables
-- SEX (Gênero)
+- SEX (Sexo)
 0 = Male
 1 = Female
 
