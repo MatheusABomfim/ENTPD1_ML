@@ -1,16 +1,14 @@
 P-values for each independent variable:
-const                          0.598902
-Sex                            0.838314
-Age                            0.487720
-Dermatological symptoms        0.844771
-Arthralgia                     0.817200
-Urinary function impairment    0.496209
-Psychiatric symptoms           0.567505
-Lower limb pain                0.071019
-Lower limb paresthesia         0.219719
-Lower limb paresis weakness    0.318815
-Lower back spine pain          0.235240
-Upper limb neuropathy          0.225961
-Motor function                 0.035502
-CD39-Diplotypes                0.706764
+const                          8.963476e-01
+Sex                            7.051300e-01
+Age                            3.466807e-01
+Motor function                 3.653157e-05
+Dermatological symptoms        4.259673e-01
+Arthralgia                     7.551418e-01
+Urinary function impairment    6.368688e-09
+Lower limb pain                2.135109e-01
+Paresthesia                    3.969665e-01
+Lower back spine pain          6.387125e-01
+Limbs paresis or weakness      9.971060e-05
+CD39-Diplotypes                9.408715e-01
 dtype: float64
