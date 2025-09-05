@@ -43,6 +43,7 @@ Categorical Variables
   - Based on association between expression levels at:
     - rs10748643 identified by MONCRIEFFE et al., 2013
       (https://doi.org/10.4049/jimmunol.190.Supp.175.4)
+      
     - rs11188513 identified by WU et al., 2020
       (https://doi.org/10.2147/OTT.S272553)
 
