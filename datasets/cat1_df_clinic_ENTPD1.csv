@@ -1,4 +1,4 @@
-Código,Gênero,Idade_clinica,Prontuário,PROVAVEL_HAM/TSP,Dermatológicos,Artralgia,Comprometimento da função urinária,Sintomas psiquiátricos,Dor MMII,Parestesia MMII,Paresia/Fraqueza MMII,Dor Lombar/Coluna,Neuropatia MMSS,Função Motora,rs10748643,rs11188513
+Código,Sexo,Idade_clinica,Prontuário,PROVAVEL_HAM/TSP,Dermatológicos,Artralgia,Comprometimento da função urinária,Sintomas psiquiátricos,Dor MMII,Parestesia MMII,Paresia/Fraqueza MMII,Dor Lombar/Coluna,Neuropatia MMSS,Função Motora,rs10748643,rs11188513
 1,F,55,931729,0,0,1,0,1,0,0,1,1,0,0,0,0
 2,M,44,931704,0,0,0,0,0,1,0,0,1,0,0,1,1
 3,M,62,927218,1,1,0,0,0,1,1,1,0,1,0,1,1
