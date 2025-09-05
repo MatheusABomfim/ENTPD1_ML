@@ -50,38 +50,34 @@ Categorical Variables
 
 - Binary Clinical Symptoms (0 = Absence / 1 = Presence)
 
-- Dermatologic symtomps
+- Dermatologic symtomps (Dermatológicos)
 1 = Presence of dermatologic problems
 0 = Absence of dermatologic problems
   
-- Arthralgia
+- Arthralgia (Artralgia)
 1 = Presence of arthralgia
 0 = Absence of arthralgia
   
-- Urinary function impairment
+- Urinary function impairment (Comprometimento da função urinária)
 1 = Presence of urinary symptoms
 0 = Absence of urinary symptoms
-  
-- Psychiatric symptoms
-1 = Presence of psychiatric symptoms
-0 = Absence of psychiatric symptoms
-  
+   
 - Lower limb pain (Dor MMII)
 1 = Presence of lower limb pain
 0 = Absence of lower limb pain
   
-- Paresthesia of the lower limbs / Paresis/weakness of the lower limbs 
+- Limbs paresis or weakness (Paresia/ Fraqueza)
 1 = Presence of paresthesia or paresis/weakness in the lower limbs
 0 = Absence of paresthesia or paresis/weakness in the lower limbs
   
-- Low back pain 
+- Low back pain (Dor lombar/Coluna)
 1 = Presence of low back pain
 0 = Absence of low back pain
-  
-- Upper limbs neuropathy
-1 = Presence of upper limb neuropathy
-0 = Absence of upper limb neuropathy
-  
+   
 - Motor Function 
 1 = Presence of motor function impairment
 0 = Absence of motor function impairment
+
+- Parestesia (Paresthesia)
+1 = Presence of paresthesia
+0 = Abscense of paresthesia
