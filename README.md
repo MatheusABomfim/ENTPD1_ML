@@ -12,9 +12,9 @@ The project is initially divided into four main scripts:
 Notes & Reminders
 Clinical data has been excluded since it is yet to be extracted from medical records.
 Once available, oligosymptomatic patients will be classified separately to enhance model performance.
+
 Environment & Dependencies
 The code was developed using the following versions:
-
 
 Python version: 3.11.7
   
