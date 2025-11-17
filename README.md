@@ -1,5 +1,5 @@
 ENTPD1_ML: Machine Learning for Prognosis in People Living with HTLV
-This repository contains Python scripts for implementing various Machine Learning models aimed at predicting prognosis in People Living with HTLV.
+This repository contains Python scripts that implement various machine learning models designed to prognosis people living with HTLV in terms of clinical progression to HAM/TSP.
 
 Project Structure
 The project is initially divided into four main scripts:
