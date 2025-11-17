@@ -21,9 +21,10 @@ Python version: 3.11.7
 Libraries:  
 - scikit-learn: 1.2.2  
 - imbalanced-learn: 0.12.1  
-- scikit-optimize: 0.10.1  
-Dataset Information
-The dataset used is named: cat2_df_clinic_ENTPD1.csv.
+- scikit-optimize: 0.10.1
+  
+Dataset Information:
+The dataset used is named "cat2_df_clinic_ENTPD1.csv"
 
 Data Dictionary:
 
